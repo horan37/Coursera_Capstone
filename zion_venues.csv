@@ -1,6 +1,5 @@
 City,City Latitude,City Longitude,Venue,Venue Latitude,Venue Longitude,Venue Category
 Central,37.39,-113.63,Sunny's Pizza,37.339718458331234,-113.69114316779661,Café
-Central,37.39,-113.63,Slice of Veyo,37.338264,-113.692769,Pizza Place
 Enterprise,37.52,-113.75,Enterprise Senior Citizen Center,37.570952,-113.718693,Diner
 Enterprise,37.52,-113.75,Marvs Burgers & Fries,37.573398614613865,-113.7103317672852,Burger Joint
 Enterprise,37.52,-113.75,Verla's Country Cafe,37.57311,-113.70678,Restaurant
@@ -12,6 +11,7 @@ Ivins,37.18,-113.71,Chef Hog’s Oyster Bar & Grill,37.1685907,-113.6794057,Amer
 Ivins,37.18,-113.71,Aragosta,37.158025023685624,-113.67408335208891,Restaurant
 Ivins,37.18,-113.71,Chef Hog,37.190704345703125,-113.65849304199219,BBQ Joint
 Ivins,37.18,-113.71,Canyon Breeze Restaurant,37.170317550325265,-113.65201634032506,American Restaurant
+Ivins,37.18,-113.71,Capriotti's Sandwich Shop,37.14692687988281,-113.66046142578125,Deli / Bodega
 Ivins,37.18,-113.71,The Granary,37.132719,-113.656346,Café
 La Verkin,37.23,-113.24,Stagecoach Grille,37.20313326482235,-113.27278040440314,American Restaurant
 La Verkin,37.23,-113.24,Main Street Cafe,37.17434669590413,-113.28832951756992,Café
@@ -34,7 +34,6 @@ Leeds,37.23,-113.36,Arby's,37.1768489199127,-113.307356545255,Fast Food Restaura
 Leeds,37.23,-113.36,Costa Vida,37.1762615,-113.3037528,Mexican Restaurant
 Leeds,37.23,-113.36,Subway,37.17258447024757,-113.3645440932541,Sandwich Place
 Leeds,37.23,-113.36,Wagon Wheel Diner,37.239471435546875,-113.35858154296875,Food
-Leeds,37.23,-113.36,Cafe Y,37.243477,-113.353096,Café
 Leeds,37.23,-113.36,McDonald's,37.1767526,-113.310644,Fast Food Restaurant
 Leeds,37.23,-113.36,Wendy’s,37.17613508402828,-113.30940967876194,Fast Food Restaurant
 Leeds,37.23,-113.36,Walmart Bakery,37.172631,-113.364549,Bakery
@@ -85,6 +84,7 @@ Rockville,37.15,-113.05,Don Pedros Family Mexican Restaurant,37.189167,-112.9976
 Rockville,37.15,-113.05,Moki,37.190066,-112.995184,New American Restaurant
 Rockville,37.15,-113.05,Elements,37.190767217278555,-112.99431974328604,Café
 Rockville,37.15,-113.05,Thai Sapa,37.19792114648005,-112.99156256347776,Thai Restaurant
+Rockville,37.15,-113.05,Anthera,37.197122,-112.991441,Restaurant
 Santa Clara,37.13,-113.65,Dutch Bros Coffee,37.1227885,-113.6271259,Café
 Santa Clara,37.13,-113.65,The Crêpery,37.1257138,-113.6017994,Creperie
 Santa Clara,37.13,-113.65,Cafe Rio,37.146756,-113.660477,Tex-Mex Restaurant
@@ -131,7 +131,6 @@ Santa Clara,37.13,-113.65,Frostop,37.109533360898276,-113.56505386594097,Burger 
 Santa Clara,37.13,-113.65,One Hot Grill,37.10835081800749,-113.58378647601785,Burger Joint
 Santa Clara,37.13,-113.65,Domino's Pizza,37.09083039899466,-113.58495446472716,Pizza Place
 Santa Clara,37.13,-113.65,Taco Bell,37.10961949108629,-113.57006870218815,Fast Food Restaurant
-Santa Clara,37.13,-113.65,Ka'ili's Restaurant,37.132362365722656,-113.6504898071289,American Restaurant
 Santa Clara,37.13,-113.65,The Granary,37.132719,-113.656346,Café
 Santa Clara,37.13,-113.65,Cravings Bakery And Cafe,37.12721252441406,-113.63880157470703,American Restaurant
 Santa Clara,37.13,-113.65,A&W / KFC,37.11012516858746,-113.56481284049283,Fast Food Restaurant
@@ -164,6 +163,7 @@ Springdale,37.25,-112.99,Amigos Hot Plates,37.188825,-112.99726100000001,Mexican
 Springdale,37.25,-112.99,"Juniper - Pizza, Pasta, Pub",37.18813,-113.0,Italian Restaurant
 Springdale,37.25,-112.99,Switchback,37.18315124511719,-113.00322723388672,American Restaurant
 Springdale,37.25,-112.99,kings landing,37.1790705206115,-113.00626881538932,American Restaurant
+Springdale,37.25,-112.99,Anthera,37.197122,-112.991441,Restaurant
 Saint George,37.18,-113.6,The Crêpery,37.1257138,-113.6017994,Creperie
 Saint George,37.18,-113.6,Painted Pony Restaurant,37.1104784734727,-113.58426080115221,American Restaurant
 Saint George,37.18,-113.6,George's Corner Restaurant,37.110217067038114,-113.58354995175625,American Restaurant
@@ -202,16 +202,15 @@ Saint George,37.18,-113.6,The Fish Rock Grille,37.19734573364258,-113.6184997558
 Saint George,37.18,-113.6,The Pasta Factory,37.1100899,-113.5835388,Italian Restaurant
 Saint George,37.18,-113.6,Canyon Breeze Restaurant,37.170317550325265,-113.65201634032506,American Restaurant
 Saint George,37.18,-113.6,Taco Bell,37.12339419974248,-113.61428947864813,Fast Food Restaurant
-Saint George,37.18,-113.6,Marv's,37.12652473371046,-113.60208837339619,Burger Joint
 Saint George,37.18,-113.6,China Kitchen,37.12096894879417,-113.5992761802239,Chinese Restaurant
 Saint George,37.18,-113.6,Zeppe's,37.123307946521585,-113.62227485728022,Snack Place
 Saint George,37.18,-113.6,Rickshaw Asian Gourmet,37.1224250793457,-113.62567901611328,Chinese Restaurant
 Saint George,37.18,-113.6,Island Grinds,37.1224250793457,-113.62567901611328,Hawaiian Restaurant
 Saint George,37.18,-113.6,Cravings Bakery And Cafe,37.12721252441406,-113.63880157470703,American Restaurant
-Saint George,37.18,-113.6,Ka'ili's Restaurant,37.132362365722656,-113.6504898071289,American Restaurant
 Saint George,37.18,-113.6,Aragosta,37.158025023685624,-113.67408335208891,Restaurant
 Saint George,37.18,-113.6,Chef Hog’s Oyster Bar & Grill,37.1685907,-113.6794057,American Restaurant
 Saint George,37.18,-113.6,The Granary,37.132719,-113.656346,Café
+Saint George,37.18,-113.6,Honolulu Grill 2,37.110442382430215,-113.59359397634353,Restaurant
 Saint George,37.13,-113.48,St. Helen's Restaurant & Sports Bar,37.130604999999996,-113.50368700000001,American Restaurant
 Saint George,37.13,-113.48,In-N-Out Burger,37.1278058480275,-113.52301781645184,Fast Food Restaurant
 Saint George,37.13,-113.48,Texas Roadhouse,37.124788,-113.529855,Steakhouse
@@ -262,11 +261,11 @@ Saint George,37.13,-113.48,Jimmy John's,37.10997009277344,-113.56603240966797,Sa
 Saint George,37.13,-113.48,A&W,37.1615104675293,-113.43475341796875,Fast Food Restaurant
 Saint George,37.13,-113.48,Koral Kafe,37.163544,-113.44693799999999,Italian Restaurant
 Saint George,37.13,-113.48,Blimpie,37.161476,-113.434736,Sandwich Place
-Saint George,37.13,-113.48,A&W Restaurant,37.161617279052734,-113.43467712402344,Fast Food Restaurant
 Toquerville,37.26,-113.27,Stagecoach Grille,37.20313326482235,-113.27278040440314,American Restaurant
 Toquerville,37.26,-113.27,Route 9 Pizza and Pastries,37.21021270751953,-113.27172088623047,Pizza Place
 Toquerville,37.26,-113.27,Arby's,37.2102,-113.27146699999999,Fast Food Restaurant
-Toquerville,37.26,-113.27,Cafe Y,37.243477,-113.353096,Café
+Toquerville,37.26,-113.27,Federico's Mexican Food,37.20708465576172,-113.26619720458984,Mexican Restaurant
+Toquerville,37.26,-113.27,Papa Gus,37.24335,-113.352941,BBQ Joint
 Virgin,37.33,-113.12,Embers,37.268192,-113.114547,American Restaurant
 Washington,37.13,-113.49,St. Helen's Restaurant & Sports Bar,37.130604999999996,-113.50368700000001,American Restaurant
 Washington,37.13,-113.49,In-N-Out Burger,37.1278058480275,-113.52301781645184,Fast Food Restaurant
@@ -321,13 +320,14 @@ Washington,37.13,-113.49,A&W,37.1615104675293,-113.43475341796875,Fast Food Rest
 Washington,37.13,-113.49,Even Stevens Sandwiches,37.1101004,-113.5732712,Sandwich Place
 Washington,37.13,-113.49,Koral Kafe,37.163544,-113.44693799999999,Italian Restaurant
 Washington,37.13,-113.49,Blimpie,37.161476,-113.434736,Sandwich Place
-Washington,37.13,-113.49,A&W Restaurant,37.161617279052734,-113.43467712402344,Fast Food Restaurant
+Washington,37.13,-113.49,Ocean Buffet,37.1097372414108,-113.57588132353293,Asian Restaurant
 Veyo,37.35,-113.66,Veyo Pies,37.337521,-113.693602,Restaurant
-Veyo,37.35,-113.66,Slice of Veyo,37.338264,-113.692769,Pizza Place
-Veyo,37.35,-113.66,John's Pizza and More,37.33830261230469,-113.69283294677734,Pizza Place
+Veyo,37.35,-113.66,The Highway Griddle,37.338027,-113.693714,Diner
+Veyo,37.35,-113.66,Branding Iorn,37.298188,-113.680617,Food
+Dammeron Valley,37.26,-113.69,Branding Iorn,37.298188,-113.680617,Food
 Hildale,37.03,-112.96,Brothers Bistro Food & Drink Shop,36.99153,-112.972786,American Restaurant
+Hildale,37.03,-112.96,Berry Knoll Bakery,36.991391848427355,-112.97368615865707,Pizza Place
 Hildale,37.03,-112.96,Hub On Central,36.990746,-112.974335,Restaurant
-Hildale,37.03,-112.96,Across the Border,36.98296337714402,-112.98572659492491,Taco Place
 Saint George,37.06,-113.57,Cracker Barrel Old Country Store,37.07827427505898,-113.58398447026244,American Restaurant
 Saint George,37.06,-113.57,Black Bear Diner,37.08669041575015,-113.5837067194553,Diner
 Saint George,37.06,-113.57,Hawaiian Poke Bowl,37.092541233973,-113.587230006956,Poke Place
@@ -412,22 +412,22 @@ Saint George,37.06,-113.57,Jimmy John's,37.092038886664334,-113.58635693681953,S
 Saint George,37.06,-113.57,Riggatti's Wood Fired Pizza,37.10935241766509,-113.58342360489982,Pizza Place
 Saint George,37.06,-113.57,Even Stevens Sandwiches,37.1101004,-113.5732712,Sandwich Place
 Saint George,37.06,-113.57,Denny's,37.08745,-113.58306,Breakfast Spot
+Saint George,37.06,-113.57,Port of Subs,37.0530909,-113.5651361,Sandwich Place
 Saint George,37.06,-113.57,McDonald's,37.087376,-113.584397,Fast Food Restaurant
 Saint George,37.06,-113.57,Parrothead Island Broiler,37.06102139237358,-113.58685451494785,Seafood Restaurant
 Saint George,37.06,-113.57,The Pasta Factory,37.1100899,-113.5835388,Italian Restaurant
-Saint George,37.06,-113.57,Italia D'Oro Espresso,37.040489196777344,-113.55719757080078,Food
+Saint George,37.06,-113.57,Burger Theory,37.077007,-113.579504,Burger Joint
 Saint George,37.06,-113.57,player's,37.07944391666667,-113.583524,American Restaurant
-Saint George,37.06,-113.57,Dolphin Winder Dairy St George,37.0435791015625,-113.55082702636719,Food
 Saint George,37.06,-113.57,American Grinders,37.039146423339844,-113.55799865722656,Sandwich Place
 Saint George,37.06,-113.57,Taste of Asia,37.081731,-113.579861,Asian Restaurant
 Saint George,37.06,-113.57,Gringo Grill - Mexican Food and Burgers,37.08617281970252,-113.57521198086067,Mexican Restaurant
-Saint George,37.06,-113.57,Ricardo's Restaurant,37.089355,-113.585976,Mexican Restaurant
+Saint George,37.06,-113.57,Magleby's,37.084151,-113.58469,American Restaurant
 Saint George,37.06,-113.57,Garden Buffet,37.090855767287835,-113.58515947486876,Buffet
 Saint George,37.06,-113.57,Tom's Deli,37.09246451166671,-113.58730317041918,Deli / Bodega
 Saint George,37.06,-113.57,Orchid Restaurant,37.093505859375,-113.58699798583984,Food
-Saint George,37.06,-113.57,Breakfast at Tifiny's at Green Valley Spa,37.09123611450195,-113.62397003173828,French Restaurant
-Saint George,37.06,-113.57,Don Pedro's Family Mexican Restaraunt,37.09782464299739,-113.619111452086,Mexican Restaurant
-Saint George,37.06,-113.57,Las Palmeras,37.09821701049805,-113.61955261230469,Mexican Restaurant
+Saint George,37.06,-113.57,Green Iguana Mexican Restaurant,37.093842,-113.58676,Tex-Mex Restaurant
+Saint George,37.06,-113.57,Irmitas Mexican Restaurant,37.09613124585093,-113.58538469113236,Mexican Restaurant
+Saint George,37.06,-113.57,Ocean Buffet,37.1097372414108,-113.57588132353293,Asian Restaurant
 Saint George,37.08,-113.55,Sakura,37.11007645109371,-113.56340666617908,Sushi Restaurant
 Saint George,37.08,-113.55,Chick-fil-A,37.1067243,-113.5551554,Fast Food Restaurant
 Saint George,37.08,-113.55,Olive Garden,37.10476131785649,-113.5550973176155,Italian Restaurant
@@ -524,6 +524,5 @@ Saint George,37.08,-113.55,Carl's Jr.,37.123105691188,-113.61807649179461,Fast F
 Saint George,37.08,-113.55,Hungry Howie's Pizza,37.123265,-113.622339,Pizza Place
 Saint George,37.08,-113.55,Gun Barrel Steakhouse,37.1276464559127,-113.6023903632298,Steakhouse
 Saint George,37.08,-113.55,Carl's Jr.,37.04555130004883,-113.59686279296875,Fast Food Restaurant
-Saint George,37.08,-113.55,Dolphin Winder Dairy St George,37.0435791015625,-113.55082702636719,Food
-Saint George,37.08,-113.55,Italia D'Oro Espresso,37.040489196777344,-113.55719757080078,Food
+Saint George,37.08,-113.55,Port of Subs,37.0530909,-113.5651361,Sandwich Place
 Saint George,37.08,-113.55,American Grinders,37.039146423339844,-113.55799865722656,Sandwich Place
